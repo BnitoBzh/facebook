@@ -1,5 +1,5 @@
 {
-    "name": "facebook/facebook-sdk-php-zf2",
+    "name": "twibs/zf2-facebook",
     "description": "Zend Framework 2 Module that allows easy integration the Facebook SDK for PHP",
     "type": "library",
     "license": "Apache",
@@ -9,7 +9,7 @@
         "module",
         "sdk"
     ],
-    "homepage": "https://github.com/Vibre/facebook",
+    "homepage": "https://github.com/twibs/facebook",
     "require": {
         "php": ">=5.4",
         "zendframework/zendframework": "2.3.*",
