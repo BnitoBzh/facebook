@@ -1,9 +1,9 @@
 # Facebook SDK ZF2 Module
 
-[![Latest Stable Version](https://poser.pugx.org/facebook/facebook-sdk-php-zf2/v/stable.svg)](https://packagist.org/packages/facebook/facebook-sdk-php-zf2)
-[![Total Downloads](https://poser.pugx.org/facebook/facebook-sdk-php-zf2/downloads.svg)](https://packagist.org/packages/facebook/facebook-sdk-php-zf2)
-[![Latest Unstable Version](https://poser.pugx.org/facebook/facebook-sdk-php-zf2/v/unstable.svg)](https://packagist.org/packages/facebook/facebook-sdk-php-zf2)
-[![License](https://poser.pugx.org/facebook/facebook-sdk-php-zf2/license.svg)](https://packagist.org/packages/facebook/facebook-sdk-php-zf2)
+[![Latest Stable Version](https://poser.pugx.org/facebook/facebook-sdk-php-zf2/v/stable.svg)](https://packagist.org/packages/twibs/zf2-facebook)
+[![Total Downloads](https://poser.pugx.org/facebook/facebook-sdk-php-zf2/downloads.svg)](https://packagist.org/packages/twibs/zf2-facebook)
+[![Latest Unstable Version](https://poser.pugx.org/facebook/facebook-sdk-php-zf2/v/unstable.svg)](https://packagist.org/packages/twibs/zf2-facebook)
+[![License](https://poser.pugx.org/facebook/facebook-sdk-php-zf2/license.svg)](https://packagist.org/packages/twibs/zf2-facebook)
 
 ## Introduction
 
